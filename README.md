@@ -1,9 +1,10 @@
 # Sup 👋
 
 ## Lasin stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PeturSteinn&show_icons=true&hide_border=true&title_color=EA8872&icon_color=EA8872)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PeturSteinn&show_icons=true&hide_border=true&title_color=de3235&icon_color=de3235)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+404447
 **PeturSteinn/PeturSteinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
